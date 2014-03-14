@@ -20,4 +20,4 @@ More often you will want to turn the plugin on or off for a specific series:
         bars: { topbar: true, ... }
     }])
 
-
+View the <a href="http://jasonroman.github.io/flot-topbar/example.html">example page</a> to see the plugin in action.
