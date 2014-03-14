@@ -5,6 +5,10 @@ Simple [Flot](http://www.flotcharts.org) plugin for specifying bar chart series 
 
 Even when including the plugin on your page, it is turned off by default.  You may either turn it on for all series at once or for specific series.
 
+View the <a href="http://jasonroman.github.io/flot-topbar/example.html">example page</a> to see the plugin in action.
+
+---
+
 To turn on the plugin for all series:
 
     series: {
@@ -20,4 +24,4 @@ More often you will want to turn the plugin on or off for a specific series:
         bars: { topbar: true, ... }
     }])
 
-View the <a href="http://jasonroman.github.io/flot-topbar/example.html">example page</a> to see the plugin in action.
+
