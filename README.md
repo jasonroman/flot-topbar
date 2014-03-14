@@ -1,4 +1,4 @@
-flot-topbar
+Flot Topbar
 ======
 
 Simple [Flot](http://www.flotcharts.org) plugin for specifying bar chart series that display just the top line of the bar and not fill in the area below.  This could be used, for example, to display two series overlayed on each other rather than stacked or side-by-side.  As such, This likely makes no sense to use in combination with other stacking plugins.
